@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 50px 25px;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.welcome p {
+    margin: 0.5em;
+}
+
+.netlify {
+    position: absolute;
+    bottom: 0.5em;
+    left: 0.5em;
+}

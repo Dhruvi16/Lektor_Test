@@ -1,0 +1,8 @@
+README.md
+lektor_markdown_table.py
+setup.py
+lektor_markdown_table.egg-info/PKG-INFO
+lektor_markdown_table.egg-info/SOURCES.txt
+lektor_markdown_table.egg-info/dependency_links.txt
+lektor_markdown_table.egg-info/entry_points.txt
+lektor_markdown_table.egg-info/top_level.txt

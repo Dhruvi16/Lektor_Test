@@ -1,0 +1,5 @@
+_model: redirect
+---
+target: /archives/old-tech-blog/entries/
+---
+_discoverable: no

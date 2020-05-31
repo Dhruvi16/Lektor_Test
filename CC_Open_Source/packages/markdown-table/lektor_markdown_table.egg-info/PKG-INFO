@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: lektor-markdown-table
+Version: 0.1
+Summary: This plugin adds styling to markdown tables
+Home-page: https://github.com/sp35/lektor-markdown-table
+Author: Shubham Pandey
+Author-email: shubhampcpandey13@gmail.com
+License: MIT
+Description: # markdown-table
+        
+        This plugin adds styling to markdown tables, by adding bootstrap classes. Styling can be applied to `<table>` and `thead` by creating a configuration file named `markdown-table.ini` in the `configs` directory.
+        
+        #### Example
+        
+        ```ini
+        [bootstrap_class]
+        table = 'table table-striped'
+        thead = 'thead-dark'
+        ```
+        Unless specified, the default styles `table table-striped` and `thead-dark` are applied.
+        
+Keywords: Lektor plugin
+Platform: UNKNOWN
+Classifier: Framework :: Lektor
+Classifier: Environment :: Plugins
+Description-Content-Type: text/markdown

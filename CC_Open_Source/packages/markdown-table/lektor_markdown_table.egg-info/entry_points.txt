@@ -1,0 +1,3 @@
+[lektor.plugins]
+markdown-table = lektor_markdown_table:MarkdownTablePlugin
+
